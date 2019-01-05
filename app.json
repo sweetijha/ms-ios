@@ -1,0 +1,17 @@
+{
+  "name" : "MyShoperoo",
+  "displayName" : "MyShoperoo",
+  "expo": {
+    "version" : "1.92",
+    "icon" : "./icon.png",
+    "splash": {
+      "image": "./splash.png",
+      "resizeMode": "cover"
+    },
+    "orientation" : "portrait",
+    "sdkVersion": "27.0.0",
+    "ios" : {
+      "bundleIdentifier" : "com.myshoperoo"
+    }
+  }
+}
